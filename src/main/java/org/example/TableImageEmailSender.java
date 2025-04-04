@@ -131,7 +131,7 @@ public class TableImageEmailSender {
             String tableImagePath = generateTableImage();
 
             // Call the sendEmail method with recipient email address and attachment path
-            sendEmail("thai.pham41@t-mobile.com", tableImagePath);
+           // sendEmail("vincentdampham@gmail.com", tableImagePath);
         } catch (IOException e) {
             e.printStackTrace();
         }

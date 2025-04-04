@@ -47,7 +47,7 @@ public class gmailSender {
 
     public static void main(String[] args) {
         // Call the sendEmail method with recipient email address
-        sendEmail("thaip@outlook.com");
+        sendEmail("vincentp@outlook.com");
     }
 }
 //javac gmailSender.java
