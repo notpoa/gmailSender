@@ -105,6 +105,6 @@ public class graphEmailSender {
         File chartFile = generateChartAsImage();
 
         // Send the email with the chart attached
-        sendEmail("thaip@outlook.com", chartFile);
+        sendEmail("vincentpcoding@gmail.com", chartFile);
     }
 }
